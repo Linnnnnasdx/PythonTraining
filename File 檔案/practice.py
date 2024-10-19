@@ -1,0 +1,6 @@
+f = open("File/word.txt",mode = "r")
+line = f.read()
+print(line)
+count = line.count("itheima")
+print(count)
+f.close()
