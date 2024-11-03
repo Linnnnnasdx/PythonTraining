@@ -26,6 +26,7 @@ for tag in tags:
 
 driver.close()
 
+
 """用for迴圈選擇要點幾次"""
 # tags = driver.find_elements(By.CLASS_NAME, "title") 
 # for tag in tags:

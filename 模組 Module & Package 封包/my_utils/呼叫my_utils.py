@@ -1,5 +1,5 @@
-from my_utils.str_util import str_reverse,substr
-from my_utils.file_util import print_file_info,append_to_file
+from str_util import str_reverse,substr
+from file_util import print_file_info,append_to_file
 
 print(str_reverse("niLecurB"))
 print(substr("BruceLin",5,8))
